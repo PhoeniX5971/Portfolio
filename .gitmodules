@@ -1,0 +1,6 @@
+[submodule "Website"]
+	path = Website
+	url = https://github.com/PhoeniX5971/Portfolio-Website.git
+[submodule "Assistant"]
+	path = Assistant
+	url = https://github.com/PhoeniX5971/Portfolio-Assistant.git
